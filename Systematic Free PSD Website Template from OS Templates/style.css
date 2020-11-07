@@ -1,0 +1,174 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+.one{
+    float: left;
+    overflow: hidden;
+    width:5%;
+}
+.two{
+    float: left;
+    width: 4%;
+    overflow: hidden;
+}
+.three{
+    float: left;
+    width: 7%;
+    overflow: hidden;
+}
+.four{
+    
+    width:10%;
+    float: left;
+  
+}
+.bar{
+    width: 2px;
+    height: 16px;
+    background-color:white;
+    float: left;
+    margin-top: 23px;
+    margin-right: 5px;
+}
+.signup{
+    margin-left: 900px;
+    padding-top:10px;
+
+}
+.signup input{
+    border-radius: 100px;
+    padding: 5px;
+}
+header{
+    background-color: #ba2e1f;
+    padding: 5px 0px 25px 15px;
+    color: white;
+}
+#icon-section{
+    margin-top: 50px;
+    padding: 20px;
+}
+
+
+.div1{
+    float: left;
+    
+}
+.div2{
+    float: right;
+    
+    
+}
+.div2 img{
+    width: 30px;
+    padding-top: 35px;
+  
+}
+.clear-div{
+    clear: both;
+}
+
+
+#menu-section{
+    background-color:#333333 ;
+    padding: 5px 10px;
+    width: 95%;
+    margin: 0 auto;
+    
+}
+nav ul li {
+    display: inline;
+    margin: 20px;
+   
+
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    
+    
+}
+
+
+#women-section{
+    background-color:whitesmoke;
+    padding-top: 10px;
+}
+.div-women{
+    float: left;
+
+}
+.div-write{
+    float: left;
+    margin-left: 20px;
+}
+#main-section-1{
+    padding:15px;
+    background-color:#f2f2f2;
+
+}
+.left{
+    float: left;
+    padding-top: 16px;
+    margin-right: 5px;
+}
+.right{
+    float: left;
+}
+ 
+
+  div .part-1{
+      float: left;
+      width: 30%;
+      overflow: hidden;
+  }
+  div .part-2{
+    float: left;
+    width: 30%;
+    overflow: hidden;
+}
+ div .part-3{
+     float: left;
+    overflow: hidden;
+    width: 40%;
+}
+
+#main-section-2{
+  padding:10px 10px 20px 10px;
+
+}
+.hr-1{
+    float: left;
+    width: 24%;
+    overflow: hidden;
+}
+.hr-2{
+    float: left;
+    width: 24%;
+    overflow: hidden;
+}
+.hr-3{
+    float: left;
+    width: 24%;
+    overflow: hidden;
+}
+.hr-4{
+    float: left;
+    width: 24%;
+    overflow: hidden;
+}
+footer{
+    background-color:black;
+    padding: 10px;
+    color: white;
+}
+.point{
+    float: left;
+}
+.point1{
+    float: right;
+}
